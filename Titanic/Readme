@@ -1,0 +1,4 @@
+Hello.
+This is my Project based on the Kaggle Titanic Competition.
+It contains 3 CSV files namely - Train, Test and Gender.
+I managed to get an accuracy of 79% and open to suggestions in order to increase it.
