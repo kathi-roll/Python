@@ -27,7 +27,7 @@ optional arguments:
   -u, --upper          use uppercase in dataset.
   --npi NPI            number of characters per image.
   --data_dir DATA_DIR  where data will be saved.
-
+```
 
 Do let me know your suggestions on the Project.
 
